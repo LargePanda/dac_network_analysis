@@ -1,0 +1,167 @@
+3	James Allison	463	James T. Allison
+5	David J. Gorsich	1769	David Gorsich
+12	Niclas Stromberg	220	Niclas Strömberg
+12	Niclas Stromberg	679	Niclas Strömberg
+28	Tucker J. Marion	837	Tucker Marion
+32	J.-C. Léon	2456	J. C. Léon
+42	Ashraf Nassef	1404	Ashraf O. Nassef
+52	John Ziegert	1898	John C. Ziegert
+530	Matthew Watkins	1965	Matthew Parkinson
+76	V. Krishnamurthy	771	Vivek Krishnamurthy
+95	T. R. Langerak	1038	Thomas R. Langerak
+96	Sinobu Yoshimura	317	Shinobu Yoshimura
+98	Kristina Wärmefjord	958	Kristina Wärmefjord
+129	Kemper E. Lewis	385	Kemper Lewis
+140	Richard H. Crawford	1691	Richard Crawford
+148	Samuel Drake	664	Sam Drake
+159	Bryony L. Du Pont	500	Bryony L. DuPont
+159	Bryony L. Du Pont	1776	Bryony DuPont
+164	C. G. Jensen	1874	C. Greg Jensen
+166	A. Farhang-Mehr	696	Ali Farhang-Mehr
+166	A. Farhang-Mehr	2089	Ali Farhang Mehr
+169	Sundar Krishnamurthy	1022	Sundar Krishnamurty
+176	Thomas Stone	2101	Thomas M. Stone
+179	Frank W. Liou	2195	Frank Liou
+180	Zhi-Gang Xu	272	Zhi Gang Xu
+202	Kristin L. Wood	1900	Kristin Wood
+217	Sara E. Lego	1713	Sara Lego
+220	Niclas Strömberg	679	Niclas Strömberg
+227	Mohamed El-Morsi	1750	Mohamed El Morsi
+244	Robert Bjärnemo	2154	Robert Bjärnemo
+849	Cristina H. Amon	1918	Cristina Amon
+247	Adel Younis	1817	Adel A. Younis
+255	M. F. Horstemeyer	195	Mark F. Horstemeyer
+258	Panos Y. Papalambros	757	Panos Papalambros
+258	Panos Y. Papalambros	1454	P. Papalambros
+293	Charlie Manion	460	Charles A. Manion
+324	Mohamed M. Shalaby	1013	Mohammed Shalaby
+348	Nicholas J. Gaul	2049	Nicholas Gaul
+353	R. D. Sriram	1926	Ram D. Sriram
+359	Kambiz H. Hajikolaei	1251	Kambiz Haji Hajikolaei
+369	Gül E. Okudan Kremer	812	Gül E. Okudan
+383	Roger Jianxin Jiao	1716	Jianxin Jiao
+396	Warren P. Seering	917	Warren Seering
+401	Mark A. Ganter	1040	Mark Ganter
+405	Kate S. Whitefoot	668	Katie Whitefoot
+405	Kate S. Whitefoot	1914	Kate Whitefoot
+50	I. Horváth	1734	Imre Horváth
+432	Xiaoming Wang	1360	Xiaomeng Chang
+432	Xiaoming Wang	1694	Xiao Wang
+447	Jeremy J. Michalek	1398	Jeremy Michalek
+451	Joseph A. Donndelinger	1195	Joseph Donndelinger
+483	David W. Rosen	2292	David Rosen
+885	M. Steven Greene	656	Steven Greene
+494	Brandon M. Haley	1330	Brandon Haley
+500	Bryony L. DuPont	1776	Bryony DuPont
+512	Richard Malak	1687	Richard J. Malak
+525	Art Boyars	2243	A. Boyars
+533	David Yoo	2013	David Yin
+543	Sang Won Lee	1857	Sangwon Lee
+1156	Vincent Blouin	918	Vincent Y. Blouin
+586	Gül Okudan	812	Gül E. Okudan
+599	Jitesh Panchal	1564	Jitesh H. Panchal
+606	Peter A. Fenyes	2141	Peter Fenyes
+608	James Oliver	1062	James H. Oliver
+631	Kenneth M. Bryden	801	Kenneth (Mark) Bryden
+1341	Paul D. Arendt	1540	Paul Arendt
+643	Jason M. Weaver	1630	Jason Weaver
+646	Alan R. Parkinson	1397	Alan Parkinson
+1046	David E. Johnson	1494	David Johnson
+665	Ching-Shin Norman Shiau	1049	Ching-Shin Shiau
+668	Katie Whitefoot	1914	Kate Whitefoot
+696	Ali Farhang-Mehr	2089	Ali Farhang Mehr
+717	Lijun Jiang	366	Li-jun Wang
+737	Jean-Claude Léon	2325	Jean-Claude Léon
+741	Scott Ferguson	1512	Scott M. Ferguson
+749	Christopher Garneau	2257	Christopher J. Garneau
+757	Panos Papalambros	1454	P. Papalambros
+2288	Alejandro R. Diaz	1930	Alejandro Diaz
+779	Bart D. Frischknecht	2110	Bart Frischknecht
+788	Kurt A. Chipperfield	1625	Kurt Chipperfield
+796	Dmitriy Dikin	1500	Dmitriy A. Dikin
+812	Gül E. Okudan	855	Gül E. Okudan
+816	Ashwin Gurnani	942	Ashwin P. Gurnani
+830	Maria Yang	1211	Maria C. Yang
+914	Nam-Ho Kim	1999	Nam H. Kim
+914	Nam-Ho Kim	2058	Nam Ho Kim
+922	Mustafa H. Arafa	1787	Mustafa Arafa
+967	Joshua D. Summers	1216	Joshua Summers
+981	Matthew McIntire	2371	Matthew G. McIntire
+1003	Olivier de Weck	1220	Olivier L. de Weck
+1015	Rikard Söderberg	1383	Rikard Söderberg
+1030	Shintaro Yamasaki	1296	Shintarou Yamasaki
+1041	Janis Terpenny	2188	Janis P. Terpenny
+567	Joseph K. Davidson	7	J. K. Davidson
+1451	O. Ma	1772	Ou Ma
+1077	J. J. Shah	1247	Jami J. Shah
+1087	David C. Anderson	1651	David Anderson
+1125	S. Manoochehri	1468	Souran Manoochehri
+1136	Kenneth W. Chase	1754	Kenneth Chase
+1136	Kenneth W. Chase	2087	Ken W. Chase
+1149	Nagesh Kulkarni	1163	Nagesh H. Kulkarni
+1177	Hesham Hegazi	1052	Hesham A. Hegazi
+1178	Jianxin (Roger) Jiao	1309	Jianxin Roger Jiao
+1188	Raj Mishra	2021	Rajul Misra
+1206	Andrés Tovar	1881	Andrés Tovar
+1212	Andrew T. Olewnik	941	Andrew Olewnik
+1217	Jered Dean	1671	Jered H. Dean
+1221	Alice Agogino	2151	Alice M. Agogino
+1238	John P. Eddy	2116	John Eddy
+1247	Jami J. Shah	1678	Jami Shah
+1260	Carolyn Conner Seepersad	1777	Carolyn Seepersad
+1260	Carolyn Conner Seepersad	1953	Carolyn C. Seepersad
+1261	Yoo Suk Hong	2060	Yoo S. Hong
+229	François Cluzel	2489	François Cluzel
+1272	Jeffrey D. Arena	1975	Jeffrey D. Allen
+1304	J. P. Pernot	2167	J.-P. Pernot
+1347	Ayman Youssef	1650	Ayman M. A. Youssef
+1036	J. S. M. Vergeest	2361	Joris S. M. Vergeest
+1357	David A. Romero	1779	David Romero
+1366	Sayed M. Metwalli	2326	Sayed Metwalli
+1367	Georges Fadel	1501	George Fadel
+1367	Georges Fadel	1685	Georges M. Fadel
+2318	Matthew P. Reed	2404	Matthew Reed
+1389	Harrison M. Kim	1940	Harrison Kim
+1405	Stella Maris Oggianu	1760	Stella Oggianu
+1418	Linda Lianfeng Zhang	2286	Lianfeng Zhang
+1057	Yuanyuan Liu	1825	Xuyuan Liu
+1427	Junqiang Zhang	2228	Jian Zhang
+1486	Sanjay B. Joshi	2100	Sanjay Joshi
+1464	Mohamed Trabia	2017	Mohamed B. Tribe
+1501	George Fadel	1685	Georges M. Fadel
+1510	Johan Ölvander	2284	Johan Ölvander
+1527	George Cheng	2474	George H. Cheng
+1545	Matthew I. Campbell	1935	Matthew Campbell
+1555	Brendan O’Toole	733	Brendan J. O’Toole
+1597	Judy Vance	1948	Judy M. Vance
+1619	Mohamed Aly	1839	Mohamed F. Aly
+1635	Irem Tumer	2076	Irem Y. Tumer
+1668	Ritesh A. Khire	2419	Ritesh Khire
+1672	Matthew B. Parkinson	1965	Matthew Parkinson
+2307	Sanghoon Lee	1880	Sang Hoon Lee
+1758	Annette Skowronska	1852	Annette G. Skowronska
+1770	R. J. Yang	2249	R.-J. Yang
+1777	Carolyn Seepersad	1953	Carolyn C. Seepersad
+1780	Gary Stump	2174	Gary M. Stump
+1795	Steve B. Shooter	1841	Steven B. Shooter
+790	Matthew P. Castanier	2324	Matthew Castanier
+1818	Dennis N. Assanis	1929	Dennis Assanis
+1834	Zhen Jiang	2170	Zhen Huang
+1838	Xin Wang	1646	Xin Yan
+1848	Magnus Thor Jonsson	1947	Magnus Th. Jonsson
+1876	Ehsan T. Esfahani	2461	Ehsan Tarkesh Esfahani
+1882	Erin F. MacDonald	2352	Erin MacDonald
+1894	Tobias Larsson	2144	Tobias C. Larsson
+1899	Horea T. Ilies	1997	Horea T. Ilieş
+1899	Horea T. Ilies	2129	Horea Ilies
+1997	Horea T. Ilieş	2129	Horea Ilies
+1999	Nam H. Kim	2058	Nam Ho Kim
+2006	Bianca Falcidieno	2418	Bianca Facidieno
+2019	Ian H. Tseng	2242	Ian Tseng
+2040	Fuewen Frank Liou	2195	Frank Liou
+2075	Gary Wang	766	G. Gary Wang
+2173	Eliot H. Winer	333	Eliot Winer
+2232	David Shahan	2414	David W. Shahan
+2245	W. F. Lu	2337	Wen F. Lu
+1119	Richard J. Malak, Jr.	1687	Richard J. Malak
+2504	Kwun-Lon Ting	2514	Kwun-lon Ting
